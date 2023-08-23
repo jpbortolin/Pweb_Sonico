@@ -1,2 +1,2 @@
 # Pweb_Sonico
-Web programming example, using sorted list, video, gif...
+Web programming example, using sorted list, video, gif... in HTML
